@@ -20,4 +20,4 @@ Responsive 2-Columns
 Things get stacked up on smaller screens.
 
 Evenly Distributed, Fit as Needed
-Elements flow into the layout and end when there are no more.
+Elements flow into the layout and end when there are no more...
